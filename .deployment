@@ -1,2 +1,2 @@
 [config]
-command = mvn spring-boot:run
+command = bash deploy.sh
